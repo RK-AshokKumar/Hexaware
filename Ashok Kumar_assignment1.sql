@@ -1,6 +1,6 @@
 -- TASK 1
 
--- 1.Create the database named "TechShop"
+-- 1.Create the database named "TechShop".
 CREATE DATABASE TechShop;
 
 -- 2.Create Tables
